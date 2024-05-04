@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm vivek</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<h2 align="center">Hi 👋, I'm vivek<br>A passionate Full-Stack Developer from India</h2>
-
 ###
 
 <div align="center">
